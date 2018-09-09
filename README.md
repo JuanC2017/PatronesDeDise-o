@@ -14,3 +14,4 @@ Este consiste en crear una capa intermedia entrre la aplicacion y la fuente de d
 Una facade (o fachada) es un objeto que crea una interfaz simplificada para tratar con otra parte del código más compleja, de tal forma que simplifica y aísla su uso. Un ejemplo podría ser crear una fachada para tratar con una clase de una librería externa.
 * Este patron utiliza una interfaz a las clases que están disponibles en el contenedor de servicio de la aplicación. 
 * Este es el aspecto de la Fecade de laravel 
+(https://ibb.co/iwYz5U)
