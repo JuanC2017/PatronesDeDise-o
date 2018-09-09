@@ -15,3 +15,5 @@ Una facade (o fachada) es un objeto que crea una interfaz simplificada para trat
 * Este patron utiliza una interfaz a las clases que están disponibles en el contenedor de servicio de la aplicación. 
 * Este es el aspecto de la Fecade de laravel 
 ![](img/fecade.jpg)
+--otro--
+![](img/fecade2.jpg)
